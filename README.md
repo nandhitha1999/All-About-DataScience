@@ -1,6 +1,6 @@
 **Joining hands in the endeavour to build data culture and democratize Data Science learning**
 
-This repository will include all the necesaary preparatory videos and learning sessions by mentors as part of the 5 week Data Science Bootcamp by DPhi.
+This repository will include all of the preparatory videos and learning sessions that helped me enhance and get familiar with Data Science.
 
 1. Data Science and its applications -[Data Science and its applications by Admond Lee](https://www.youtube.com/watch?v=wRqY7VvH9Y0)
 2. Python and NumPy - [Fundamentals of Python and NumPy](https://www.youtube.com/watch?v=lYcz4eCZTvE)

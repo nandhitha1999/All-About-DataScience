@@ -19,4 +19,5 @@ This repository will include all the necesaary preparatory videos and learning s
 15. Feature Selection in Machine Learning- [Feature Importance and Feature Selection](https://www.youtube.com/watch?v=t4mTeqZ8YZk)
 16. NLP - [Natural Language Processing](https://www.youtube.com/watch?v=1L3JlWsSVrg)
 
-### Feel free to ping me for any clarifications or any sort of help in enhanching your knowledge towards Data Science =)
+### Feel free to ping me for any clarifications or help in enhanching your knowledge towards Data Science =)
+### Happy Learning
